@@ -1,8 +1,8 @@
 {
  "bases": {
   "acolyte_of_the_lost_arts": {
-   "models/heroes/invoker/invoker.vmdl_c": "fe40b959149e8db864651e9a9ab1df89c02d455b",
-   "models/heroes/invoker/invoker/invoker_kid_vmorf.vtex_c": "e0c24bdad50a288a9ec8a042ad42bf25e720ab26",
+   "models/heroes/invoker/invoker.vmdl_c": "d77cd4d619063848d24c65cfe6d4e9441a0f94b5",
+   "models/heroes/invoker/invoker/invoker_kid_vmorf.vtex_c": "ca8c2e440d26e80c3b264df4e560fdbc303a0324",
    "models/heroes/invoker/invoker_bracer.vmdl_c": "2aeac98861a9dd9505be283a8bab1a75edc761b7",
    "models/heroes/invoker/invoker_cape.vmdl_c": "8ee8c4072861935b26b7e0dc8acd478a1c9c7603",
    "models/heroes/invoker/invoker_dress.vmdl_c": "c1a8907ea64b610aa1a900ebd09c1c932cb9b5fb",
@@ -310,15 +310,15 @@
    "particles/units/heroes/hero_windrunner/wr_taunt_kiss_heart.vpcf_c": "b69356ac3e17fb838d97d9ced3dd11df93a3cdcb"
   },
   "conduit_of_the_blueheart": {
-   "models/heroes/crystal_maiden/crystal_maiden.vmdl_c": "225dbef01e9ba19cc2977229d552dd1d638e3981",
-   "models/heroes/crystal_maiden/crystal_maiden/crystal_maiden_persona_lod1_vmorf.vtex_c": "01518d74e6b099b36f52938c735241a6bbac269a",
-   "models/heroes/crystal_maiden/crystal_maiden/crystal_maiden_persona_vmorf.vtex_c": "c419e753bafb32d381e4312c40e54b8f517825bf",
+   "models/heroes/crystal_maiden/crystal_maiden.vmdl_c": "91f93606201bf76e2d0ec38665789ba945fe89cd",
+   "models/heroes/crystal_maiden/crystal_maiden/crystal_maiden_persona_lod1_vmorf.vtex_c": "43ab9ce520a9ed9d665f2c34457400395e85d996",
+   "models/heroes/crystal_maiden/crystal_maiden/crystal_maiden_persona_vmorf.vtex_c": "4c6c290f344a250d435c3ffdf29b25363f97b6df",
    "models/heroes/crystal_maiden/crystal_maiden_cape.vmdl_c": "c70ee5c7100917cd8d8fe583b2c9987160295500",
    "models/heroes/crystal_maiden/crystal_maiden_cuffs.vmdl_c": "3a5ef66c13d68f32fb3b4b96f60a6a59980c5947",
    "models/heroes/crystal_maiden/crystal_maiden_shoulders.vmdl_c": "9f1d7ab51e9cff7e7621ba7194ffbd762ecce374",
    "models/heroes/crystal_maiden/crystal_maiden_staff.vmdl_c": "21834e69f39523af2d94260f600a4205fc669b87",
    "models/heroes/crystal_maiden/head_item.vmdl_c": "cd5e8d462addb51b93cece2a300d9ff0e089ca9c",
-   "particles/models/heroes/crystal_maiden_persona/crystal_maiden_persona/cm_persona_fx_snapshot.vsnap_c": "0bd5ae5423240a84cc1117e007504063e92467cd",
+   "particles/models/heroes/crystal_maiden_persona/crystal_maiden_persona/cm_persona_fx_snapshot.vsnap_c": "2d9a0e8a3cc791c35833c40cac6d647cae80a58d",
    "particles/units/heroes/hero_crystalmaiden/maiden_base_attack.vpcf_c": "4f76586f416634ca268bdd26e6e522d241299554",
    "particles/units/heroes/hero_crystalmaiden/maiden_crystal_nova.vpcf_c": "9849dadf50e9cf940dfcbe7a214a9b46b0463377",
    "particles/units/heroes/hero_crystalmaiden/maiden_death.vpcf_c": "149d968b01397270a50aa9f48ac6bcf71d6bf032",
@@ -774,8 +774,8 @@
    "particles/units/heroes/hero_crystalmaiden/maiden_freezing_field_snow_shard.vpcf_c": "247d96ef41b427dec391560667acdf306842de82"
   },
   "legion_commander_automaton_persona": {
-   "models/heroes/legion_commander/legion_commander.vmdl_c": "2227a44d8eedf532cd1c58f546a205b4f0c9e28a",
-   "models/heroes/legion_commander/legion_commander/dc_base_lod0_vmorf.vtex_c": "dd846e699e99a56ac0911c6c6b803be3a7d9c5d2",
+   "models/heroes/legion_commander/legion_commander.vmdl_c": "ea6db7a1b19794fa465841aa297b38d19e219771",
+   "models/heroes/legion_commander/legion_commander/dc_base_lod0_vmorf.vtex_c": "43a9c6c92595de7c4a8f5f948766ba8802aa0672",
    "models/heroes/legion_commander/legion_commander_arms.vmdl_c": "d70647a826b943eda6dd47b2fba82da55cb60dc1",
    "models/heroes/legion_commander/legion_commander_back.vmdl_c": "339670deec86a6a69c1432ee1943b1f2f5357830",
    "models/heroes/legion_commander/legion_commander_head.vmdl_c": "28f904b4076b1549d3984070c59353687e6ab2d1",
@@ -1110,16 +1110,16 @@
    "particles/units/heroes/hero_skywrath_mage/skywrath_mage_mystic_flare_hit_ambient.vpcf_c": "c5f6e414ab4849b7d68c19516b21f8f41829faad"
   },
   "the_disciples_path": {
-   "models/heroes/antimage/antimage.vmdl_c": "c844e6d28e625d7d07ba5028635e1b27388b9011",
-   "models/heroes/antimage/antimage/antimage_female_base_vmorf.vtex_c": "ba30418063eb7f99d48b0ed987df3d83a187b3e4",
+   "models/heroes/antimage/antimage.vmdl_c": "8bef1f1f186a46112b7529d91e4f1413a8a43dc8",
+   "models/heroes/antimage/antimage/antimage_female_base_vmorf.vtex_c": "8857ea7cf25147c160c4ef3ef194a12cfa7dc9fd",
    "models/heroes/antimage/antimage_arms.vmdl_c": "3dfbfac824648b6e00eee74070eb6af2cf99cdcf",
    "models/heroes/antimage/antimage_belt.vmdl_c": "bbeed912cdda95bee8e93997712fe5b35a7b03e1",
    "models/heroes/antimage/antimage_chest.vmdl_c": "51f0f4bf0f644e3dcbd2e090aee31988464b1d36",
    "models/heroes/antimage/antimage_head.vmdl_c": "1b2393f262ab6400f9c508ab077588e6d280d651",
    "models/heroes/antimage/antimage_offhand_weapon.vmdl_c": "cf9ae955622d88b5b7ca21d669d6ee7ec01a78bc",
    "models/heroes/antimage/antimage_weapon.vmdl_c": "7292e4527c51f16573033b281c7d98e9f0ddcab0",
-   "particles/models/heroes/antimage_female/antimage_female/am_female_blade_l_fx.vsnap_c": "6c118c858c559fef061019b8bed1df40ceaec992",
-   "particles/models/heroes/antimage_female/antimage_female/am_female_blade_r_fx.vsnap_c": "ded21da1a332c5aa655921809d5b7160d5fedae8"
+   "particles/models/heroes/antimage_female/antimage_female/am_female_blade_l_fx.vsnap_c": "cb8525d9196f94e636a492fbecfe510f3f1fcb71",
+   "particles/models/heroes/antimage_female/antimage_female/am_female_blade_r_fx.vsnap_c": "ec53a4cdbb14bf3151c3eead44fe377779e2a4c0"
   },
   "the_magus_cypher": {
    "models/heroes/lycan/lycan_wolf.vmdl_c": "208060b8554679a6bb5863473a937f0d65fc19d0",
@@ -1265,8 +1265,8 @@
    "models/heroes/pudge/hair.vmdl_c": "c0090b91c24659b7074511408fa57f5b40a88bd7",
    "models/heroes/pudge/leftarm.vmdl_c": "2e633552f45811c39dfd3965e6ec920a9c5c8d3b",
    "models/heroes/pudge/leftweapon.vmdl_c": "a6e0915bd2a477c115ae86ca88c84de456637c53",
-   "models/heroes/pudge/pudge.vmdl_c": "2e58a8cd3d0dada6d74edbf7f29a2febb9d5fcaf",
-   "models/heroes/pudge/pudge/pudge_cute_base_lod0_vmorf.vtex_c": "0ff757c12fa243ca12f0e5bd18845d7b7b4f0927",
+   "models/heroes/pudge/pudge.vmdl_c": "95a524d5533c51805ca1bfc1c07da77f6bfd3234",
+   "models/heroes/pudge/pudge/pudge_cute_base_lod0_vmorf.vtex_c": "dd6d5f74207887491fc5cc2b97391924c4e6c2cf",
    "models/heroes/pudge/righthook.vmdl_c": "68a64eb2fc7d9e9d6c3a2db94e9cec9999679d73"
   },
   "voidstorm_asylum": {
